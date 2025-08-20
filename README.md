@@ -55,42 +55,6 @@ Contribuições são sempre bem-vindas! Sinta-se à vontade para:
 4. Fazer push para a branch (git push origin feature/AmazingFeature)
 5. Abrir um Pull Request
 
-👥 Desenvolvedores
-
-Conheça alguns dos colaboradores deste projeto:
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/joaosilva">
-        <img src="https://avatars.githubusercontent.com/u/1?v=4" width="100px;" alt="João Silva"/>
-        <br />
-        <sub><b>João Silva</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/mariaoliveira">
-        <img src="https://avatars.githubusercontent.com/u/2?v=4" width="100px;" alt="Maria Oliveira"/>
-        <br />
-        <sub><b>Maria Oliveira</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/pedrosantos">
-        <img src="https://avatars.githubusercontent.com/u/3?v=4" width="100px;" alt="Pedro Santos"/>
-        <br />
-        <sub><b>Pedro Santos</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/anacosta">
-        <img src="https://avatars.githubusercontent.com/u/4?v=4" width="100px;" alt="Ana Costa"/>
-        <br />
-        <sub><b>Ana Costa</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
 
 📄 Licença
 
