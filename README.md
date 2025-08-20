@@ -29,7 +29,7 @@ Não requer instalação! Basta baixar o arquivo HTML e abri-lo em qualquer nave
 
 bash
 # Clone o repositório
-git clone [https://github.com/tesouroselic/amigo-secreto.git](https://github.com/tesouroselic/jogo-amigo-secreto)
+git clone [[https://github.com/tesouroselic/amigo-secreto.git](https://github.com/tesouroselic/jogo-amigo-secreto)](https://github.com/tesouroselic/jogo-amigo-secreto/blob/main/challenge-amigo-secreto)
 
 # Ou faça o download manual do arquivo
 
