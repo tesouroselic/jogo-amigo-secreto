@@ -5,9 +5,13 @@ Um sorteio de Amigo Secreto virtual, elegante e fácil de usar, perfeito para fe
 ✨ Funcionalidades
 
 · ✅ Interface moderna e responsiva
+
 · ✅ Sorteio aleatório de amigos
+
 · ✅ Histórico de participantes sorteados
+
 · ✅ Design adaptável para desktop e mobile
+
 · ✅ Fácil de usar - basta inserir nomes e sortear!
 
 🚀 Como Usar
